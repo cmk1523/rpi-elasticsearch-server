@@ -1,7 +1,6 @@
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install oracle-java8-jdk
-sudo apt-get install unzip
 sudo apt-get install htop
 
 sudo update-alternatives --config javac

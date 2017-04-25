@@ -1,9 +1,9 @@
-# Raspberry Pi Elasticserach Server setup
+# Raspberry Pi Elasticsearch Server setup
 
 Intro
 =========
 
-Raspberry Pi Elasticserach Server setup
+Raspberry Pi Elasticsearch Server setup
 
 Requirements
 =========
